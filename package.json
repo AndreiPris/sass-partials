@@ -1,0 +1,21 @@
+{
+  "name": "sass-partials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass  index.scss > index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreiPris/sass-partials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreiPris/sass-partials/issues"
+  },
+  "homepage": "https://github.com/AndreiPris/sass-partials#readme"
+}

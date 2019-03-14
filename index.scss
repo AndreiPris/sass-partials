@@ -1,0 +1,39 @@
+@import "./grid";
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+[class*="col-"] {
+    padding: 15px;
+    border: 5px solid white;
+    float: left;
+  }
+  
+  .orange {
+    background-color: orange;
+  }
+  
+  .blue {
+    background-color: lightskyblue;
+  }
+  
+  .green {
+    background-color: yellowgreen;
+  }
+  
+  .grey {
+    background-color: lightgrey;
+  }
+  
+  .content div {
+    height: 16vh;
+  }
+  
+  .footer div {
+    height: 8vh;
+  }
+  
+  
